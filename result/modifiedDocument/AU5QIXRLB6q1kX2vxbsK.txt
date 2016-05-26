@@ -1,0 +1,186 @@
+id: AU5QIXRLB6q1kX2vxbsK
+
+XC2064-70PC68C Original supply, US $ 16-26 , [Xilinx] Xilinx, Inc, XC2064-70PC68C Supplier - SeekIC.com
+24 Hours online: +86-571-85317608
+Online Service
+Escrow
+Help
+Seekic
+or
+Post Buying Request
+Sign In
+My Account
+Welcome back,
+Sign in
+New Seller?Join Free
+My SeekIC
+DataSheet
+Products
+Suppliers
+DataSheet
+Home Â ">Â Product Center "> XC2064-70PC68C
+XC2064-70PC68C
+XC2064-70PC68C, Logic Cell Array, PLCC, -0.5V to +7V, 100%, 10s
+Rated 5
+Rating
+5
+Â |Â
+reviews
+Â |Â
+Write a review
+Price:
+US $16.00~26.00 / piece Â [Get Latest Price]
+Reference price:
+Qty (lots)
+Price/lot
+Â
+US $16.00~26.00
+PartNumber:
+<tag name="Product:Part#">XC2064-70PC68C</tag>
+Brand:
+<tag name="Product:Manufacturer">Xilinx</tag>, Inc - Xilinx Â Â Â | Â Pack: <tag name="Product:Package">PLCC</tag>
+Availability:
+Supply Ability: 10000/Week Can Ship Immediately
+Delivery: 10-15 Business Days (ships out within 3 Business days)
+Quantity:
+piece
+Total Price:
+US $0
+Place Order via Escrow Service
+Datasheet:
+Data Sheet
+Not exactly what you want? Post a quick Buying Request!
+Sold By
+<tag name="Seller:Name">Ms. Judy's store (China (Mainland))</tag>
+add to my favourite
+100%
+Positive feedback
+Detailed seller ratings
+Visit Store
+Contact Now
+Esrcow Service
+Place orders confidently
+and securely via it
+Safe payments
+Quick and easy transactions
+Free service charges
+Learn More ">">
+Previous
+Next
+Products Upload time: 2012-11-30
+From Other Seller
+Part Number:XC2064-70PC68C
+US $16.00 - 26.00
+EPM5064JC-1
+US $6.00 - 10.00 / Piece
+Â (0)
+Â Remove
+M29W800DT-70n6
+US $1.70 - 2.00 / Piece
+Â (0)
+Â Remove
+Quantity:
+piece
+Product Details
+Product Reviews (0)
+Seller Guarantees
+Product Summary
+The XC2064-70PC68C is a <tag name="Product:DeviceType">Logic Cell Array</tag>. It is a high density CMOS integrated circuit. Its user-programmable array architecture is made up of three types of configurable elements: Input/Output Blocks, logic blocks and Interconnect. The designer of the XC2064-70PC68C can define individual I/O blocks to implement logic functions and define interconnection networks to compose larger scale logic functions. The XC2064-70PC68C provides interactive graphic design capture and automatic routing. Both logic simulation and in-circuit emulation are available for design verification.
+Parametrics
+XC2064-70PC68C absolute maximum ratings: (1)Supply voltage relative to GND: -0.5V to +7.0V; (2)Input voltage with respect to GND: -0.5V to VCC+0.5V; (3)Voltage applied to 3-state output: -0.5V to VCC+0.5V; (4)Storage temperature (ambient): -65â to +150â; (5)Maximum soldering temperature (10s @ 1/16 in.): +260â.
+Features
+XC2064-70PC68C features: (1)Fully Field-Programmable; (2)General-purpose array architecture; (3)Complete user control of design cycle; (4)Compatible arrays with logic cell complexity equipment to 1200 and 1800 gates; (5)Standard product availability; (6)100% factory-tested; (7)Selectable configuration modes; (8)Low-power, CMOS, static-memory technology; (9)performance equivalent to <tag name="Product:DeviceType">TTL SSI/MSI</tag>/; (10)TTL or CMOS input thresholds; (11)Complete development system support.
+Diagrams
+Showing 5 most helpful reviews on this product.
+5 Stars
+0
+4 Stars
+0
+3 Stars
+0
+2 Stars
+0
+1 Stars
+0
+Write a Review
+Note:All information displayed is based on feedback received for this product over the past 6 months. To learn more about our Feedback Rating System, click here
+5.0
+Overall Rating
+100%Of Customersrecommend this
+Communication
+Poor
+Excellent
+Shipping Speed
+Poor
+Excellent
+Return Policy
+If the product you receive is not as described or low quality, the seller promises that you may return it before order completion (when you click 'Confirm Order Received' or exceed confirmation timeframe) and receive a full refund. The return shipping fee will be paid by you. Or, you can choose to keep the product and agree the refund amount directly with the seller.
+N.B.: If the seller provides the "Longer Protection" service on this product, you may ask for refund up to 15 days after order completion.
+Seller Service
+On-time DeliveryIf you do not receive your purchase within 39 days, you can ask for a full refund before order completion (when you click 'Confirm Order Received' or exceed confirmation timeframe).
+See more details about Seller Guarantees
+Buyer Protection
+Protecting Your Purchase from Click to Delivery
+Full Refund
+if you don't receive your order
+You will get a full refund if your order does not arrive within the delivery time promised by the seller.
+Refund or Keep
+items not as described
+You can get a full refund if your item is significantly different from the seller's description
+or
+You can choose a partial refund and keep the product.
+Learn More
+XC2064
+Other
+Data Sheet
+NegotiableÂ
+XC2000L
+Other
+Data Sheet
+NegotiableÂ
+XC2000
+Other
+Data Sheet
+NegotiableÂ
+Related Products
+<tag name="Product:part#">S2064A</tag>
+Brand: <tag name="Product:Manufacturer">AMCC</tag>
+US $0.65-1.00 / piece
+EDENESP10K
+Brand: VIA
+US $10.00-20.00 / piece
+<tag name="Product:part#">XC95108-7PC84C</tag>
+Brand: <tag name="Product:Manufacturer">Xilinx</tag>
+US $14.00-15.00 / piece
+EPM7128SQI100-15N
+Brand: ALTR
+US $2.00-50.00 / piece
+ADS7832BP
+Brand: TI
+US $20.00-40.00 / piece
+Connect with us:
+Facebook
+Twitter
+Google+
+Linkedin
+Privacy Policy
+Email Us
+Browse by:About SeekIC
+- Services
+- Payment
+- Advertisements service
+- Contact Us
+- Links
+- Blacklist
+Â© 2008-2013 SeekIC.com Corp.All Rights Reserved.
+5-point Scale
+Item as Described:
+5
+Above Average
+Communication:
+5
+Above Average
+Shipping Speed:
+5
+Above Average
+

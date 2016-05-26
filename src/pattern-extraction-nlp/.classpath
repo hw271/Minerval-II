@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="stanford-parser-2.0.5-models.jar"/>
+	<classpathentry kind="lib" path="stanford-parser-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="stanford-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/hw271/Documents/Software/json-simple-1.1.1.jar" sourcepath="/json.simple"/>
+	<classpathentry kind="lib" path="/Users/hw271/Documents/Software/gson-2.2.4.jar" sourcepath="/Users/hw271/Documents/Software/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,43 @@
+id:ID5QIBY2U6q1kX2vybqH
+
+2015+原装现货代理经销KTI品牌系列苹果解密芯片<tag name="Product:Part#">MFI341S2162</tag>
+
+QQ在线报价：<tag name="Seller:qq">2355605598</tag>
+只做全新原装正品!本公司可提供17点增值税发票！专业提供BOM物料清单配单！
+代理ST品牌.主要做STM8S系列  STM32F系列产品.
+电话：<tag name="Seller:telephone">0755-83252582</tag>
+传真: <tag name="Seller:fax">0755-33061889</tag>
+手机：<tag name="Seller:telephone">13691991645</tag> /<tag name="Seller:telephone">13422219324</tag>  联系人：<tag name="Seller:employee">陈锦洪先生</tag>
+邮箱：<tag name="Seller:email">jcdz_2015@hotmail.com</tag>
+实体店：
+【公司】<tag name="Seller:address">深圳市福田区中航路鼎诚国际北座1919室</tag>     
+【门市】<tag name="Seller:address">广州市越秀区惠福西路290号C1-C3档</tag> 
+
+—专业的电子元器件代理商 SMD.DIP集成电路
+专业音响功放.电源管理IC.舞台灯光系列集成IC
+优势品牌:<tag name="Product:Manufacturer">JRC</tag>（新日本无线电 TI（德州 RENESAS(瑞萨)NEC、NXP（恩智浦） ON（安森美） AIRCHILD（仙童） ST（意法）PTC（普诚）TOSHIBA（东芝）MAXIM（美信）SHARP（夏普）
+一．LED灯装照明  
+大功率LED照明：MAX16832AASA    MAX16820ATT  ZXLD1360  ZXLD1362 LM3404  DD311  DD312 DD313
+LED灯饰：DM11A DM11C  DM114  DM115 HV9910/9912 
+
+二：LED显示应用
+1．TOS系列：<tag name="Product:package">TB62726AFG</tag>、TB62726AFNAG、TB62747AFG、TB62747AFNAG  
+2．台湾聚积系列：MBI5024GF、MBI5024GP  MBI5026GF、MBI5026GP 
+3．SITI系列:DM11C、DM114、DM115、DM13A、DM132、DM134、DM135
+4．MOS管及逻辑电路系列:APM4953、SDM4953、74HC、HCT、LVC系列
+5. LED驱动控制专用IC:EXC266L、EXC2668L、PT6961L、PT6901L
+ 
+三：LCD显示应用
+ TOS系列：T6963CFG、T6A39FG、T6A40FG、RA8835AP3N
+ 
+四：单片机存储器及控制IC应用
+单片及及存储：WINBORD、ISSI、SST、HYNIX、STC、CYPRESS.ATMEL.MIC品牌系列  
+控制IC：ALTERA、TI、SILCON、NXP、XILINX
+
+五：MAX/DALLAS，SIPEX，IMP应用
+LED照明，接口，实时时钟及电源管理用IC
+专业经销：USB接口控制芯片，C8051F系列单片机，STM32系列，IC PLUS以太网交换机芯片；同时为厂家提供各种电子元器件的配套服务
+USB接口芯片：FT232BM ，FT232BL，FT232RL， FT245BM ，FT245BL，FT245RL，FT2232C，FT2232L，FT2232D，FT2232HL,FT4232HL,FT232RQ，CP2102
+STM32系列：STM32F103VCT6，STM32F103VET6，STM32F103VBT6，STM32F103C8T6，STM32F103CBT6,STM32F103R8T6，STM32F103RBT6，STM32F103ZCT6，STM32F103ZET6等
+C8051F系列：C8051F005，C8051F020，C8051F021,C8051F023,C8051F300，C8051F330，C8051F340,C8051F120， C8051F310，C8051F320，C8051F321，C8051F040,C8051F060等
+

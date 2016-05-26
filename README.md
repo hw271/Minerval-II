@@ -1,0 +1,1 @@
+Minerval II is a domain specific search engine project. It serves to help the government collect evidence of counterfeit sale. This repository is the pattern analysis part of Minerval II. It utilize Stanford NLP to analyze the evidence provided by users, extracing semantic pattern from the evidence and conducting a second search to discover more evidence.

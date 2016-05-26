@@ -1,0 +1,297 @@
+Thread Title:[GUIDE] Scrapebox newbie tut [GUIDE]
+---------POST 1---------
+From: Wolfpack
+Date: 1316010240000
+
+
+> I wrote this in a couple of PMs from a guy who asked me for help starting up
+making his first AA list, and I thought I would share it with the rest of the
+community.  
+  
+First of all watch the SB youtube manual and learn the absolute basics. After
+that read the paragraphs below, but watch the guides first as they'll give you
+the basics on the whole program  
+  
+The basic method for using Scrapebox is:  
+  
+scrape > filter > check > post > linkchecker,  
+  
+This will give you the first AA list you've had. I'll go into detail below
+about all of the different elments of the method, but for quick reference that
+is the basic jist of what we're doing. There are some things to know in depth
+before you start firing up SB about each of these, they're handy tidbits of
+info which will make your scraping a lot better.  
+_  
+Scrape:_  
+Scraping is basically getting hold of all the blogs you're going to try and
+post on. To do this is pretty basic, you load up some proxies and keywords,
+and then scrape, but then obviously there are more effective ways of doing it
+all.  
+First of all, get some keywords. Copy and paste these into the SB keywords
+area. Now, and this is something I personally use to get good URLs, save these
+two snippets into a .txt file and name the first one "blog types footprint"
+and the second "comment footprint":  
+  
+
+>
+
+> Code:
+
+>  
+>  
+>     "powered by blogengine"
+
+>     "powered by wordpress"
+
+>     "powered by typepad"
+
+>
+
+> Code:
+
+>  
+>  
+>     "post a reply" -"comments closed"
+
+>     "leave a reply" -"comments closed"
+
+>     "leave your reply" -"comments closed"
+
+>     "post a comment" -"comments closed"
+
+>     "leave a comment" -"comments closed"
+
+>     "leave your comment" -"comments closed"
+
+>     "leave a response" -"comments closed"
+
+>     "leave your response" -"comments closed"
+
+>     -"comments closed"
+
+>
+
+> Now you're using custom footprints, which is vital to get lists of effective
+URLs which are comment-able. Once your keywords are in the keywords field,
+click the "custom footprint" option, and click the M in the top left hand
+corner. Then load the first file, and you'll notice it'll append all of your
+keywords with different blog types. Click the M again and do the same with the
+second file.  
+  
+WHAT THIS DOES: is tell Google to only show results for those blog types
+(which SB can comment to) and also to look on the page for obvious signs of
+being able to "Leave a reply" or "Leave a response" etc. The different
+variations will pull different pages, so you get more results, which is good
+the -"comments closed" one is good for making sure we don't pull blogs with
+comments closed.  
+  
+To get some proxies, you can either scrape some (which is kind of effective,
+but takes a long time) or use proxies from on BHW (here's a good source: [http
+://www.blackhatworld.com/blackha...ml#post3223184](http://www.blackhatworld.co
+m/blackhat-seo/proxy-lists/297574-100-scrapebox-proxies-6.html#post3223184)).
+Don't bother to check these really, they're all pretty effective but SB proxy
+checker will show most of them as dead, even though they're not.  
+  
+Now press harvest and begin!  
+_  
+Flitering _  
+  
+The next step is to filter and post, and this is a very simple step. Btw, I'm
+making this very guide-like so you can use this in the future  
+  
+Filtering is easy once you decide what you want scrapebox for, however there
+is one generic filter which should always be used. Of course you don't want to
+be commenting the same blog three or four times, so it would be useless to
+have that same URL in your list three or four times. Go to 'Remove / Filter'
+and hit 'remove duplicate URLs'. For some lists, you might not want anything
+from the same website. Clicking 'remove duplicate domains' will remove any
+second occurence of any URLs in the lists with the same domain;
+'example.com/forum.php' and 'example.com/blog.php' obviously have the same
+domain, so one would be removed from the list if you clicked remove duplicate
+domains.  
+  
+Some people want forums to use with Xrumer (Xrumer signs up and posts to
+forums), but if you want to blog comment you really only want blogs to comment
+on. The best way to filter therefore is to remove forums. Here's an example of
+some forum URLs:  
+  
+  
+
+>
+
+>   * <http://americanlongrifles.org/forum/...?topic=13303.0>
+
+>   * [http://asianfanatics.net/forum/topic...-lau-tak-
+wah-&](http://asianfanatics.net/forum/topic...-lau-tak-wah-&)...
+
+>   * <http://bermudaisanotherworld.org/for...p?action=print>...
+
+>   * <http://challengeday.org/sb/forum.php...-pittsburgh-pa>
+
+>  
+  
+Personally I don't want these kinds of URLs, I only want blogs, and what
+you'll notice is that many of their URLs have very similar formats. They
+commonly contain strings of text such as 'forum.php' and '/forum/' or
+'/topic/'. For me these aren't worth going any further, so I filter them out
+here. By clicking 'Remove / Filter' again, we can click 'Remove URLs
+Containing' and get rid of these URLs by using these generic strings. If you
+DID want forums, you could just do the opposite - 'Remove / Filter > Remove
+URLs not containing'. This would then keep those containing those text strings
+in their URLs, and remove other URLs that do not contain the strings.  
+  
+Some people only want high PR backlinks, but I would not check the PR of large
+lists that are not posted. Checking the PR of lists that you are able to post
+to is much more effective, as it saves a lot of time. It's very simple to do,
+load in the AA list you will have made at the end of this tut ('Import > From
+file') and then use the PR checker on the side, it's pretty self explanatory.  
+  
+There are a lot of other filter methods, but as this is a simplified guide
+just to get your feet on the ground, you'll not want to be worrying about
+overloading yourself much further than this.  
+_  
+Posting:_  
+There are a couple of things to take into consideration before posting, as
+it'll have a large effect on how quickly you can post.  
+  
+The most important is internet connection speed. This will determine how many
+fast poster connections you have. Generally speaking I have found that 3
+connections per 1MB/s of internet speed works best (300 connection for
+100MB/s, 30 for 10MB/s etc), but play around with this if you are getting too
+high of a failed post rate or it is taking far too long. If it is still too
+slow, you can pay monthly of a VPS, virtual private server, which has 100MB/s
+connection at a reasonable price. 1GB ram is near necessary for Scrapebox, but
+I happily run 5 instances of Scrapebox on my 4GB machine. The other benefit of
+VPS servers is they run 24/7, so you don't have to leave your PC on.  
+  
+Another very important thing to consider is the proxies you use. Scraping
+proxies from Scrapebox can and will get you posts, but not on the level of
+private paid proxies. These are the best investment you can make in Scrapebox,
+and I failed to realise just how important they were until weeks in of having
+the program, and I don't think enough emphasis is put on how vital they are. I
+use squidproxies (who I have no association with btw) as they come reccomended
+by many people on BHW and they are decently priced (coupon code BHW25 for 25%
+off btw if you do think about buying them ). They will improve your post rate
+massively, so use them!  
+  
+DO NOT use private proxies to scrape keywords! It'll kill your proxies big
+time, and they'll get Google banned, not good. Use public proxies for scraping
+keywords (and all other types of heavy lifting you do in Scrapebox).  
+  
+So now we've got that out the way, here's how to post:  
+  
+Make a name and email list by clicking in the top options bar Tools > Name and
+Email Generator. This will generate a massive list of random names and emails,
+et voila, you have more or less a competely randomized name and email list to
+post on blogs. Save this to somewhere accessible.  
+Load the names and emails into the comment poster section of Scrapebox, and
+load in a .txt file of all the website you want backlinks to into the websites
+box, same with the comments. If you have your URL list in the URLs harvested
+section of SB, click 'list > Transfer URLs to blog list for commenting', and
+they'll be moved to the blog lists bit for you.  
+Start posting, and wait for the results to come in!  
+  
+That's the basic jist, there is one last vital part, so once the fast poster
+is finished, click export > export posted, save the list and then decide
+whether or not you want to use the slow poster (it IS pretty slow..) on the
+rest. If you don't want to, then don't bother with slow posting, I usually
+don't use it. After this, hit me another PM and I'll talk to you about the
+last part, and also where to find some more successful methods other than what
+I have taught you. This will make an AA list, but not as effeciently as other
+methods out there. This will, however, teach you the basic uses of Scrapebox
+and make you a very level headed user of the program, therefore making
+learning more advanced methods that bit easier.  
+  
+(Author asked some questions, here's my response)  
+  
+1\. Is it beneficial to make my name anchor text instead of a 'real' name?  
+2\. What kind of comments are good for this? Just general comments since we
+are going for an AA list?  
+  
+  
+In response to the first q, it is beneficial, but for the sake of making AA
+lists it's not necessary until you're running a campaign for yourself or for
+somebody else. The same answer for the second, however in real scenarios,
+better comments = actual success rate from blog owners accepting your
+comments. Not AA, but during a campaign, that's nonetheless more backlinks,
+and therefore a better strategy.  
+_  
+Linkchecking and further expanding:_  
+The next part will be pretty disappointing I'ld imagine ,but it gets better.
+Press link check, check all the links. All the found posted entries are your
+AA list. You'll be disappointed generally, with only about 1 in 10 - 1 in 100
+being posted. However there is a perfectly good way to expand this list.  
+  
+Load these into the scrapebox harvester (Import > import from file), then trim
+to root, removing duplicates after.  
+Export these to the clipboard (Export > to clipboard)  
+Paste into the keywords list.  
+Create a new .txt document and save inside it the exact words (without quotes)
+'site:'  
+Press the M button in the keywords bit (top left hand corner) and merge the
+.txt with all the keyword URLs.  
+Harvest URLs as before  
+  
+This is a list of all the inner pages form your AA list, and many of these
+will also be AA; this is where the real gold is at, and will increase your
+list by between 5 and 20 times it's current size. A great starting list. Once
+you've done this and we'll expand this list EVEN further.  
+  
+_Addons!_  
+These really make your list building amazingly more efficient and so much
+quicker when used correctly, and they will thrash out Scrapebox so much more
+than what's already capable.  
+  
+The main tool we will be using is the backlink checker,but we will be using
+other tools which are just as important.  
+  
+Firstly, go to the top bar, go to Addons > Show Avaiable Addons..  
+  
+A window will pop up filled with downloadable addons.  
+  
+Of these, the one's you'll want for the next task are:  
+  
+
+>
+
+>   * Backlink Checker
+
+>   * Blog Analyzer
+
+>   * Link extracter
+
+>  
+We want to firstly get our AA lists and scrape for outgoing links on them. The
+reason we want to do this is because many have thousands of outbound links,
+and those thousands of links are probably from blogs spammed with comments.
+These comments are linking to other websites spamming blogs with comments for
+backlinks, like you are doing. Therefore, as we know they are spamming blogs,
+and will probably have spammed thousands more, why not go to their website and
+check for (and steal) their AA backlinks? This is what you are going to do.  
+  
+This method was not, and I don't claim to have, thought up by me. Another
+really good Scrapebox guide showed me this, and you should definitely try it,
+it will blow your AA list up far more.  
+  
+[http://www.blackhatworld.com/blackha...backlinks.html](http://www.blackhatwor
+ld.com/blackhat-seo/black-hat-seo/240535-method-scrapeboxtuts-how-
+successfully-hi-jack-100s-thousands-backlinks.html)  
+  
+He does offer a paid service which I'm no way affiliated with. I personally
+don't think you need to pay for Scrapebox training, most other stuff can be
+searched for, and if you find anything interesting, be sure to show me too. I
+have only used Scrapebox for a month, but it's fantastic owner SweetFunny, a
+member here at BHW, has made a simple and easy-to-master tool, so I learnt
+quickly.  
+  
+Be sure to help others around here to return the favour that BHW, not me,
+gives all its members, in return for their knowledge, so share what you learn
+or discover.  
+  
+Good luck, this is all I know, but if I learn more, I will tell you. After
+this, you'll be in the know as much as me!
+![](https://static.blackhatworld.com/blackhat-
+seo/images/smilies/new/pirate.gif)
+
+
+

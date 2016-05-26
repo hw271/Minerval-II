@@ -1,0 +1,1 @@
+[{"field":"product","key":"Part #","value":"CY7C1470V33-167AXI"},{"field":"product","key":"Part #","value":"IMX225LQR"},{"field":"product","key":"Part #","value":"IMX225LQR"},{"field":"product","key":"Part #","value":"XC6SLX25-2CSG324C"},{"field":"product","key":"Part #","value":"XC6SLX25-2CSG324C"}]
